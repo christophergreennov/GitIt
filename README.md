@@ -3,3 +3,6 @@ https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-f
 
 Rebasing
 https://docs.github.com/en/get-started/using-git/about-git-rebase
+
+GitHub Desktop
+https://desktop.github.com/
